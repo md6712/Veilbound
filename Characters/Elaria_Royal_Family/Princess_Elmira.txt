@@ -24,3 +24,9 @@ Add chapter-specific updates here as the story continues.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Refined Elarian princess speech, elegant and light
+- Cadence: Gentle, thoughtful, bright
+- Tells: In memory or discussion, her voice should feel graceful and kind
+- Avoid: Do not make her harsh

@@ -24,3 +24,9 @@ Add chapter-specific updates here as the story continues.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Soldierly Elarian speech, direct and protective
+- Cadence: Reserved, steady, dependable
+- Tells: Short lines, practical reassurance, no wasted words
+- Avoid: Do not make him flowery

@@ -21,3 +21,9 @@ Helps Rinya dress, move, and survive private panic after transformation.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Servant speech, practical and reassuring
+- Cadence: Tidy, efficient, kind
+- Tells: Speaks plainly, keeps people moving, gives quiet help
+- Avoid: Do not make her timid

@@ -21,3 +21,9 @@ Coordinates the circle of Soulshapers and declares the procedure successful.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Technical speech, brisk and skeptical
+- Cadence: Sharp, disciplined, analytical
+- Tells: Challenges assumptions and speaks in clean, clipped lines
+- Avoid: Do not make him sentimental

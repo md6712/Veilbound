@@ -1,4 +1,4 @@
-Lady Anire
+﻿Lady Anire
 
 Former name: N/A
 House / allegiance: Elarian nobility; mother of Evelyne
@@ -20,3 +20,10 @@ Appears during the ladies' tea and luncheon scenes. Encourages practical dress f
 
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
+
+Speech and language:
+
+- Register: Quiet noble speech, restrained and considerate
+- Cadence: Polite, thoughtful, soft-spoken
+- Tells: Chooses careful phrasing and avoids offense
+- Avoid: Do not make her passive

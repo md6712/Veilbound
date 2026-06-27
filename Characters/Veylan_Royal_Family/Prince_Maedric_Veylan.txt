@@ -21,3 +21,9 @@ Subtle political player from merged list.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Quiet Veylan court speech, colder than Jaelric
+- Cadence: Controlled, watchful, severe
+- Tells: Speaks less, implies more, lets menace sit in the pause
+- Avoid: Do not make him theatrical

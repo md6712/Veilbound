@@ -1,4 +1,4 @@
-Evelyne
+﻿Evelyne
 
 Former name: N/A
 House / allegiance: Elarian nobility; daughter of Lady Anire; cousin of Joval
@@ -20,3 +20,10 @@ Appears in the ladies' tea and luncheon scenes. Shows interest in several young 
 
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
+
+Speech and language:
+
+- Register: Cool court speech with a sharp edge
+- Cadence: Observant, sardonic, composed
+- Tells: Uses dry understatement and pointed honesty
+- Avoid: Do not make her melodramatic

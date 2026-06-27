@@ -21,3 +21,9 @@ Travels to Veylan to guide the transformed protagonists in court survival.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Exact noble speech, clipped and unsmiling
+- Cadence: Stern, protective, highly self-controlled
+- Tells: Uses precise phrasing, dry humor, and minimal fluff
+- Avoid: Do not make her sentimental

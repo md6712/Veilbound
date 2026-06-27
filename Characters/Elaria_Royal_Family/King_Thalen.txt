@@ -24,3 +24,9 @@ Add chapter-specific updates here as the story continues.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Measured Elarian royal speech, heavy with duty
+- Cadence: Grave, formal, authoritative
+- Tells: Speaks slowly, with weight and deliberation
+- Avoid: Do not make him warm unless the scene demands it

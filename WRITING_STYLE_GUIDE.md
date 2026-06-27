@@ -102,6 +102,20 @@ Good dialogue rhythm should mix:
 - No tag when the speaker is clear.
 - Interior reaction after the line.
 
+## Character Voices
+
+Before revising dialogue, check the relevant character dossier and match the speaker's register to their personality and home land.
+
+Use the dossier to control:
+
+- Land register
+- Sentence length
+- Level of formality
+- Willingness to tease, command, explain, or reassure
+- Whether the speaker is warm, blunt, guarded, or ceremonial
+
+Elaria should usually sound measured, courteous, and layered. Veylan should usually sound sharper, colder, and more absolute.
+
 ## Dialogue Tag Rules
 
 Use `said` and `asked` most often.

@@ -21,3 +21,9 @@ Later-story companion from merged list.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Nervous practical speech with low-status court habits
+- Cadence: Eager, anxious, talkative under stress
+- Tells: Explains too much, checks himself, tries to be useful
+- Avoid: Do not make him sound polished

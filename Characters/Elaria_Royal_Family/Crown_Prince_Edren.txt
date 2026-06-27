@@ -24,3 +24,9 @@ Add chapter-specific updates here as the story continues.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Formal Elarian prince speech, responsible and restrained
+- Cadence: Serious, courteous, burdened by duty
+- Tells: Uses clean sentences and practical reassurance
+- Avoid: Do not make him swagger

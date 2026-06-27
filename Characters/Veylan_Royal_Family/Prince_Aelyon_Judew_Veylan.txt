@@ -21,3 +21,9 @@ Potentially important Veylan-side ally or complication.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Two-mode speech: courtly when required, easy when relaxed
+- Cadence: Adaptable, curious, socially aware
+- Tells: Can sound charming, quick, or guarded depending on company
+- Avoid: Do not make both versions identical

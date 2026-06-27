@@ -24,3 +24,9 @@ Add chapter-specific updates here as the story continues.
 Canon status:
 Facts marked as canon come from the story or guides. Facts marked as inferred are author-facing completions based on available text.
 
+Speech and language:
+
+- Register: Elarian court register with Maeren bluntness
+- Cadence: Reflective, careful, emotionally honest
+- Tells: Notices detail, asks pointed questions, turns dry when cornered
+- Avoid: Do not make her sound detached or slangy

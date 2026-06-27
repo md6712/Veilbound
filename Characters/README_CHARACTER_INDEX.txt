@@ -22,3 +22,5 @@ Court, escort, and Veylan figures:
 Completeness note:
 Where the story gives no exact age, height, or eye color, the individual dossier marks the detail as inferred. The two protagonists are intentionally completed as feminine after transformation, per author direction.
 
+Voice note: Each dossier now includes a speech and language profile. Use land register, rank, and temperament to vary dialogue. Elaria should sound more measured and courtly, while Veylan should sound sharper, colder, and more absolute.
+
