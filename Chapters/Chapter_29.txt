@@ -22,7 +22,7 @@ Then, everything stopped.
 
 The carriage lay on its side, motionless. Dust and splinters filled the air. I could hear the horses struggling somewhere ahead, their cries sharp and terrified. Kaelira was beside me, bruised but conscious, her hair tangled and her gown torn at the hem. Mirna was trying to push open what remained of the door, while Dina sobbed quietly in the corner.
 
-“Is everyone all right?” I managed to ask, my voice shaking.
+“Is everyone all right?” I managed.
 
 Kaelira coughed and nodded. “I think so. But the carriage… it is finished.”
 
@@ -52,7 +52,7 @@ I tried to look past them through the broken window. The forest ahead was dense,
 
 Kaelira gripped my hand tightly. “Who are they?”
 
-“I do not know,” Therrin replied, his voice hard. “But they are organized. Keep low.”
+“I do not know,” Therrin replied. “But they are organized. Keep low.”
 
 He stepped away from the door, his sword gleaming in the slant of afternoon light. His stance shifted, balanced and ready, as he braced himself. Nerran moved to his left, sword ready. They took position together just as the masked riders reached the clearing.
 
