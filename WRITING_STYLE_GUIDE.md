@@ -106,6 +106,12 @@ Good dialogue rhythm should mix:
 
 Before revising dialogue, check the relevant character dossier and match the speaker's register to their personality and home land.
 
+**This is a required revision check, not an optional polish pass.**
+
+**Every speaking character should sound like themselves.**
+
+**Before finishing a chapter, review each line of dialogue and ask whether it could belong only to that character, or whether anyone in the cast could have said it. If anyone could have said it, revise it.**
+
 Use the dossier to control:
 
 - Land register
@@ -114,7 +120,7 @@ Use the dossier to control:
 - Willingness to tease, command, explain, or reassure
 - Whether the speaker is warm, blunt, guarded, or ceremonial
 
-Elaria should usually sound measured, courteous, and layered. Veylan should usually sound sharper, colder, and more absolute.
+**Elaria should usually sound measured, courteous, and layered. Veylan should usually sound sharper, colder, and more absolute.**
 
 ## Dialogue Tag Rules
 
