@@ -17,7 +17,7 @@ Council mages:
 - Mage Miranda, Mage Vistan, Mage Halren, Mage Valeen, and Mage Tarsen.
 
 Court, escort, and Veylan figures:
-- Lady Maerel Varent, Lady Elsin Talyra, Mirna, Dina, Sir Alvis, King Valtar Veylan, Queen Seralyth, late Queen Elyra, Prince Jaelric, Prince Maedric, Prince Aelyon/Judew, Pattin, and Sedrick.
+- Lady Maerel Varent, Lady Elsin Talyra, Lady Anire, Evelyne, Mirna, Dina, Sir Alvis, King Valtar Veylan, Queen Seralyth, late Queen Elyra, Prince Jaelric, Prince Maedric, Prince Aelyon/Judew, Pattin, and Sedrick.
 
 Completeness note:
 Where the story gives no exact age, height, or eye color, the individual dossier marks the detail as inferred. The two protagonists are intentionally completed as feminine after transformation, per author direction.
