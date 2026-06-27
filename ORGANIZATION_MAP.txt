@@ -1,0 +1,21 @@
+﻿VEILBOUND ORGANIZATION MAP
+
+Primary chapter source:
+- Veilbound [1-44] (1) copy.txt
+
+Generated folders:
+- Chapters: Chapter_01.txt through Chapter_44.txt, split from the 44-chapter source. Duplicate exported chapter headings and XML archive artifacts were cleaned from the split files.
+- About_the_Veil: organized lore for the Veil, affinities, attunement ranks, and the Sacred Twelve Veils.
+- Characters: individual character dossiers plus a clean character index.
+- Source_Materials: copied raw guides and story drafts for reference. Originals were left in place so open IDE tabs do not break.
+
+Important protagonist direction:
+- Princess Kaelira and Lady Rinya are completed as feminine after transformation.
+- Their dossiers describe the transformation as full and permanent across body, voice, social role, presentation, and spiritual harmony.
+
+Counts:
+- Chapters generated: 44
+- Affinity files generated: 18
+- Attunement rank files generated: 5
+- Sacred Twelve Veil files generated: 12
+- Character dossier files generated: 36
