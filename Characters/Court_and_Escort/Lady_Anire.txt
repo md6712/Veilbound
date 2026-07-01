@@ -27,3 +27,5 @@ Speech and language:
 - Cadence: Polite, thoughtful, soft-spoken
 - Tells: Chooses careful phrasing and avoids offense
 - Avoid: Do not make her passive
+
+-- pic: make her less perfect

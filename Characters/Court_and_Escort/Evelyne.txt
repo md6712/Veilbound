@@ -27,3 +27,5 @@ Speech and language:
 - Cadence: Observant, sardonic, composed
 - Tells: Uses dry understatement and pointed honesty
 - Avoid: Do not make her melodramatic
+
+-- pic: make her less perfect

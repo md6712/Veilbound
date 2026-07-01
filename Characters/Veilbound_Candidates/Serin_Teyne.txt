@@ -27,3 +27,6 @@ Speech and language:
 - Cadence: Thoughtful, disciplined, a little unsure
 - Tells: Tries to be precise and deferential
 - Avoid: Do not make him cocky
+
+
+pic conflict: should be less frail
